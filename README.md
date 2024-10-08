@@ -5,4 +5,4 @@ Secured User Authenticated Checkout and Razorpay Payment Integration.
  
 Integration with email services for verification and sending order confirmation.
 
-Runned Successfully On NGROK Server.
+Ran Successfully On NGROK Server.
